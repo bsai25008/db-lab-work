@@ -1,4 +1,3 @@
-# db-lab-work
 # BS Artificial Intelligence — Academic Repository 🚀
 
 ## 👤 Student Profile
@@ -10,9 +9,9 @@
 ---
 
 ## 📚 Featured Course
-* **Course Name:** Database Systems (CS-211)
-* **Instructor:** Mr. Nauman Arshad
-* **Department:** Department of Artificial Intelligence
+* [cite_start]**Course Name:** Database Systems (CS-211) [cite: 285]
+* [cite_start]**Instructor:** Mr. Nauman Arshad [cite: 285]
+* [cite_start]**Department:** Department of Artificial Intelligence [cite: 287]
 
 ---
 
@@ -31,6 +30,16 @@ Currently, my academic focus is centered on mastering the foundational pillars o
 
 ---
 
+## 🛠️ GitHub Lab Takeaways
+What I learned about GitHub in this lab:
+* I discovered how to use core Git tracking operations (`git add` and `git commit`) to log precise changes and create a clean chronological history of source code snapshots.
+* I learned how local repositories connect with remote hosting environments like GitHub (`git push`), allowing seamless code synchronization between my computer and cloud environments.
+* I realized the value of structural documentation files like `README.md` to communicate technical architectures, repository scopes, and workflows transparently within software teams.
+
+---
+
 ## 🛠️ Featured Project Highlight
 * **Naml (نمل) — Pakistani Criminal Justice Public Database:** A full-stack database systems project featuring a 32-table normalized MySQL schema, custom RBAC security configurations, and a Python Flask backend to track and preserve legal case records transparently.
 
+---
+*End of Document — Driven by Data, Powered by AI.*
