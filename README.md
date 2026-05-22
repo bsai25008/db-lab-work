@@ -2,7 +2,7 @@
 # BS Artificial Intelligence — Academic Repository 🚀
 
 ## 👤 Student Profile
-* **Name:** [Your Full Name]
+* **Name:** Mehrab Haider
 * **Institution:** Information Technology University (ITU), Lahore, Pakistan
 * **Program:** BS Artificial Intelligence (BSAI)
 * **Semester:** 2nd Semester (Batch 2025–2029)
