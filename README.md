@@ -9,9 +9,9 @@
 ---
 
 ## 📚 Featured Course
-* [cite_start]**Course Name:** Database Systems (CS-211) [cite: 285]
-* [cite_start]**Instructor:** Mr. Nauman Arshad [cite: 285]
-* [cite_start]**Department:** Department of Artificial Intelligence [cite: 287]
+* **Course Name:** Database Systems (CS-211) 
+* **Instructor:** Mr. Nauman Arshad 
+* **Department:** Department of Artificial Intelligence 
 
 ---
 
@@ -41,5 +41,3 @@ What I learned about GitHub in this lab:
 ## 🛠️ Featured Project Highlight
 * **Naml (نمل) — Pakistani Criminal Justice Public Database:** A full-stack database systems project featuring a 32-table normalized MySQL schema, custom RBAC security configurations, and a Python Flask backend to track and preserve legal case records transparently.
 
----
-*End of Document — Driven by Data, Powered by AI.*
